@@ -1,2 +1,2 @@
 # Fashun-Site-Project
-A template repo for the Fashun Site project for West-MEC students
+This is the template repo for the Fashun site project.
